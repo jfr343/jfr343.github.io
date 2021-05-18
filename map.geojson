@@ -1,0 +1,7 @@
+{
+  "type":"FeatureCollection","features":
+  [
+    {"type":"Feature","properties":{},"name":"Jingan Temple","r":255,"g":255,"b":0,"geometry":{"type":"Point","coordinates":[121.48464289786179, 31.23529156267078]}},
+    {"type":"Feature","properties":{},"name":"Oriental","r":255,"g":0,"b":255,"geometry":{"type":"Point","coordinates":[121.49933587283545, 31.240050290193718]}}
+  ]
+}
